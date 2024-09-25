@@ -8,4 +8,4 @@ Are You Sure? Challenging LLMs Leads to Performance Drops in The FlipFlop Experi
 https://arxiv.org/html/2311.08596v2
 
 
-NOTE: These papers have also githubs and information about dataset they used
+NOTE: These papers have also githubs and information about datasets they used
