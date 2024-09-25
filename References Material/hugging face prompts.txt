@@ -1,0 +1,3 @@
+https://github.com/glgh/awesome-llm-human-preference-datasets
+
+https://huggingface.co/collections/argilla/preference-datasets-for-dpo-656f0ce6a00ad2dc33069478
