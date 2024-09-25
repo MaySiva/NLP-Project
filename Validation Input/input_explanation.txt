@@ -1,0 +1,6 @@
+the data structure will contain the generated conversations by all LLMs we tested.
+
+its a dictionary that its keys are the different LLMs and its values
+are a list of generated conversations gcs, where gcs[i] == (generated conversation about question i).
+
+an example of the data structure is shown in the JSON

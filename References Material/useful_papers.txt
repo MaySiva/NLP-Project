@@ -1,0 +1,11 @@
+Ask Again, Then Fail: Large Language Models' Vacillations in Judgment
+https://arxiv.org/abs/2310.02174
+
+The Earth is Flat because...: Investigating LLMs' Belief towards Misinformation via Persuasive Conversation
+https://arxiv.org/abs/2312.09085
+
+Are You Sure? Challenging LLMs Leads to Performance Drops in The FlipFlop Experiment
+https://arxiv.org/html/2311.08596v2
+
+
+NOTE: These papers have also githubs and information about dataset they used
