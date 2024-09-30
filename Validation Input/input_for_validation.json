@@ -1,23 +1,14 @@
 {
-    "LLM_1": ["generated_conversation_1",
-              "generated_conversation_2",
+    "LLM_1": [["conversation_1_before", "conversation_2_before",      "conversation_k_before"],
+              ["conversation_1_after",  "conversation_2_after",       "conversation_k_after"]],
 
-
-              "generated_conversation_n"
-              ],
-    "LLM_2": ["generated_conversation_1",
-              "generated_conversation_2",
-
-
-              "generated_conversation_n"
-             ],
+    "LLM_2": [["conversation_1_before", "conversation_2_before",      "conversation_k_before"],
+              ["conversation_1_after",  "conversation_2_after",       "conversation_k_after"]],
     
     
+
+              
     
-    "LLM_n": ["generated_conversation_1",
-              "generated_conversation_2",
-               
-               
-              "generated_conversation_n"
-             ]
+    "LLM_n": [["conversation_1_before", "conversation_2_before",      "conversation_k_before"],
+              ["conversation_1_after",  "conversation_2_after",       "conversation_k_after"]]
 }
