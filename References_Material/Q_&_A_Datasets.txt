@@ -1,0 +1,29 @@
+Q&A Datasets for LLM Induced Doubt Research
+Here are the direct links to access various Q&A datasets that can be used to test the susceptibility
+of LLMs to induced doubt:
+1. SQuAD (Stanford Question Answering Dataset):
+ - GitHub repository: https://github.com/rajpurkar/SQuAD-explorer
+ - SQuAD v1.1 training set: https://rajpurkar.github.io/SQuAD-explorer/dataset/train-v1.1.json
+ - SQuAD v1.1 test set: https://rajpurkar.github.io/SQuAD-explorer/dataset/dev-v1.1.json
+ - SQuAD v2.0 training set: https://rajpurkar.github.io/SQuAD-explorer/dataset/train-v2.0.json
+ - SQuAD v2.0 test set: https://rajpurkar.github.io/SQuAD-explorer/dataset/dev-v2.0.json
+
+2. Natural Questions (NQ):
+ - Hosted on Google's cloud storage: https://ai.google.com/research/NaturalQuestions/download
+ - This page provides options for downloading the long-answer and short-answer datasets.
+
+3. TriviaQA:
+ - Official website with dataset links: http://nlp.cs.washington.edu/triviaqa/
+ - It includes links to both web-based and verified answers datasets, as well as instructions on how
+to use them.
+
+4. QuAC (Question Answering in Context):
+ - GitHub repository: https://github.com/stanfordnlp/quac
+ - Direct link to the dataset files and scripts: http://quac.ai/
+
+5. HotpotQA:
+ - Official website: https://hotpotqa.github.io/
+ - Dataset download link: https://hotpotqa.github.io/wiki.zip and
+https://hotpotqa.github.io/distractor.zip
+These datasets provide various question types and formats that can help in testing LLMs'
+robustness against induced doubt.
