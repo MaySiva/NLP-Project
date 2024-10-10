@@ -1,0 +1,11 @@
+The data structure will contain the generated conversations by all LLMs we tested before and 
+after inducing doubt.
+
+Its a dictionary that its keys are the different LLM ids and its values
+are tuples of length 2 that are containing the generated conversations before and after inducing doubt.
+
+In other words:
+conversation_before[i] == (generated conversation about question i before inducing doubt).
+conversation_after[i] == (generated conversation about question i after inducing doubt).
+
+** An example of the data structure is shown in the JSON **
